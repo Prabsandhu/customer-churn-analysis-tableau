@@ -18,15 +18,16 @@ Tableau Public Project Link: https://public.tableau.com/shared/FJ7RRGD24?:displa
 
 
 # CONCLUSIONS
+![image link](churn_rate_analysis1.png)
+
 -	The rate of customer churn is higher among female customers (25%) compared to male customers (16%).
 -	Individuals aged between 45 and 55 are most inclined to discontinue their relationship with the bank.
 -	Customers who have filed complaints exhibit a higher likelihood of leaving the bank.
 -	Germany stands out with the highest churn rate at 32.4%.
 -	Customers with a credit score of 425 or lower are more prone to churning, while there is no notable change in the churn rate for those with a credit score exceeding 450.
 
-
+![image link](churn_rate_analysis2.png)
  
-
 - Among customers who have been with the bank for less than 7 years, diamond cardholders demonstrate the highest churn rates, whereas gold cardholders exhibit the lowest.
 - Customers with more than 2 products are at a heightened risk of leaving the bank.
 - Churn rates remain consistent across various satisfaction survey scores.
@@ -55,4 +56,3 @@ Engage customers with more than 2 products through personalized communication, e
 
 - Continuous Monitoring of Customer Satisfaction:
 While satisfaction survey scores may not directly correlate with churn rates, continuous monitoring and proactive measures to address emerging issues can contribute to overall customer retention.
-
