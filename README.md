@@ -8,7 +8,7 @@ Tableau Public Project Link: https://public.tableau.com/shared/FJ7RRGD24?:displa
 
 
  
-![image link](https://github.com/Prabsandhu/customer-churn-analysis-tableau/blob/main/customer_overview.png)
+![image link](customer_overview.png)
 
 # Customer overview
  ‘About our customers’ dashboard provides a comprehensive snapshot of our customer base, comprising 10,000 individuals. Key insights include a 20% churn rate, with 2,038 customers having exited the bank. The gender distribution indicates 55% male and 45% female customers. Geographically, 50% are from France, while Germany and Spain contribute 25% each. On average, customers possess 1.5 products, with an average annual income of $100,090 and an average age of 39. This overview offers valuable data for strategic decision-making and targeted initiatives.
